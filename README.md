@@ -1,3 +1,5 @@
+<img src="https://stats.cusat.ac.in/assets/images/research_area/time_series.jpeg" alt="Imagen de Customer Segmentation" width="700"/>
+
 # ⏳ Time-Series-Forecasting
 
 Este proyecto tiene como objetivo realizar análisis y predicción de series temporales utilizando dos enfoques: **SARIMA** y **Prophet**. Se busca identificar patrones históricos y realizar predicciones precisas sobre los valores futuros de la serie.
